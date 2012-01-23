@@ -1,0 +1,19 @@
+div#pagina {
+	border: 1px solid #ccc;
+}
+
+nav {
+	
+}
+
+	nav ul {
+		list-style-type: none;
+	}
+	
+		nav ul li {
+			display: inline;
+		}
+
+div#contenido {
+	padding: 5px;
+}
